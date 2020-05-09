@@ -1,0 +1,5 @@
+shot_outcome,shot_outcome_str
+1,On target
+2,Off target
+3,Blocked
+4,Hit the bar
